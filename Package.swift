@@ -16,7 +16,7 @@ let package = Package(
     ],
 
     dependencies: [
-        .package(name: "WalletKitCore", url: "https://github.com/domagoj-grizelj/WalletKitCore", from: "1.0.0")
+        .package(name: "WalletKitCore", url: "https://github.com/domagoj-grizelj/WalletKitCore", from: "1.0.1")
 //        .package(path: "WalletKitCore")
     ],
 
